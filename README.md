@@ -4,8 +4,6 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeRibeiro01&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRibeiro01&layout=compact)](https://github.com/GuilhermeRibeiro01/github-readme-stats)
-
 ### Tecnologias que utilizo
 <div style="display: flex ; align-items: center;" >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="margin: 15px;">
